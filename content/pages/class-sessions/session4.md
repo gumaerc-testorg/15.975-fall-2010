@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Class Sessions
+parent_type: CourseSection
 parent_uid: 8efc3cfd-fbe4-7016-4592-7e1c3ebbebac
 title: Define Prototyping Idea
 uid: 057cd2dd-0664-78a7-8227-3cc6896ed9b1

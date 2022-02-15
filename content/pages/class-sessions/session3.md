@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Class Sessions
+parent_type: CourseSection
 parent_uid: 8efc3cfd-fbe4-7016-4592-7e1c3ebbebac
 title: User-Centered Design and Prototyping
 uid: 33fa04ee-d0f0-77cf-4baf-d211e57abc15

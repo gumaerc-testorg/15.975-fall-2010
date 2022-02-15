@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Class Sessions
+parent_type: CourseSection
 parent_uid: 8efc3cfd-fbe4-7016-4592-7e1c3ebbebac
 title: Crystallization of Key Learnings
 uid: 3e2859a1-7ca7-a3ef-b79c-57c0deb19967
