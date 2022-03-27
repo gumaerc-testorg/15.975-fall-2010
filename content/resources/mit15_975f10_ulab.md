@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Introduction to Theory U
 parent_type: CourseSection
+parent_uid: f5268b01-e5f6-aae0-298c-27ffa9194362
 resourcetype: Document
 title: 'Introduction to U-Lab: Leading Profound Innovation for a More Sustainable
   World'
