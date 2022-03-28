@@ -36,7 +36,7 @@ Session Introduction
 
 -----------------------
 
-Introduction to U-Lab: Leading Profound Innovation for a More Sustainable World ([PDF]({{< baseurl >}}/resources/mit15_975f10_ulab))
+Introduction to U-Lab: Leading Profound Innovation for a More Sustainable World ({{< resource_link 50195c2c-f3e2-c6a7-26ac-678a22888df4 "PDF" >}})
 
 In-Class Practice
 -----------------
