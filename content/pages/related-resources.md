@@ -1,8 +1,11 @@
 ---
 content_type: page
+description: This section contains an introduction to Theory U and the Presencing
+  Institute, a global community of individuals, institutions, and initiatives that
+  apply and advance the U process of presencing to collectively create profound innovation
+  and change.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Related Resources
 uid: d4e1cf0e-eaa6-c085-7c19-ac9b3c978f6b
 ---

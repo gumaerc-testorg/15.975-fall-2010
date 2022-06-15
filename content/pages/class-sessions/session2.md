@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'This session covers the current transformation of global capitalism,
+  and includes materials for preparation, a short video prepared by the professor,
+  and a reflection assignment. '
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Class Sessions
@@ -14,7 +17,7 @@ Preparation
 
 ### Pre-reading
 
-Scharmer, C. Otto. "Seven Acupuncture Points for Shifting Capitalism to Create a Regenerative Ecosystem Economy." _Oxford Leadership Journa_l 1, no. 3 (2010). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ottoscharmer.com/docs/articles/2010_Oxford_SevenAcupuncturePoints.pdf))
+Scharmer, C. Otto. "Seven Acupuncture Points for Shifting Capitalism to Create a Regenerative Ecosystem Economy." _Oxford Leadership Journa_l 1, no. 3 (2010). ([PDF](http://www.ottoscharmer.com/docs/articles/2010_Oxford_SevenAcupuncturePoints.pdf))
 
 ———. "Individual Actions." Chapter 16 in _Theory U: Leading From the Future As It Emerges_. San Francisco, CA: Berrett-Koehler, 2009. ISBN: 9781576757635.
 

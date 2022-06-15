@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'This session is dedicated to student presentations and the crystallization
+  of key course learnings, and includes materials for preparation, a short video prepared
+  by the professor, and a reflection assignment. '
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Class Sessions
