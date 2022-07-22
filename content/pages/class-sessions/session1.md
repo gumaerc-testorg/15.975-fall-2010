@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: 'This session provides an introduction to theory U, and includes materials
+  for preparation, a short video prepared by the professor, and a reflection assignment. '
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Class Sessions
+parent_type: CourseSection
 parent_uid: 8efc3cfd-fbe4-7016-4592-7e1c3ebbebac
 title: Introduction to Theory U
 uid: f5268b01-e5f6-aae0-298c-27ffa9194362
@@ -11,7 +16,7 @@ Preparation
 
 ### Pre-reading
 
-Scharmer, C. Otto. "The Blind Spot of Institutional Leadership: How to Create Deep Innovation Through Moving From Egosystem to Ecosystem Awareness." Paper prepared for World Economic Forum, Annual Meeting of the New Champions 2010, Tianjin, People's Republic of China, September 2010. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ottoscharmer.com/docs/articles/2010_DeepInnovation_Tianjin.pdf))
+Scharmer, C. Otto. "The Blind Spot of Institutional Leadership: How to Create Deep Innovation Through Moving From Egosystem to Ecosystem Awareness." Paper prepared for World Economic Forum, Annual Meeting of the New Champions 2010, Tianjin, People's Republic of China, September 2010. ([PDF](http://www.ottoscharmer.com/docs/articles/2010_DeepInnovation_Tianjin.pdf))
 
 ———. "Introduction." In _Theory U: Leading From the Future As It Emerges_. San Francisco, CA: Berrett-Koehler, 2009. ISBN: 9781576757635.
 
@@ -33,7 +38,7 @@ Session Introduction
 
 -----------------------
 
-Introduction to U-Lab: Leading Profound Innovation for a More Sustainable World ([PDF]({{< baseurl >}}/resources/mit15_975f10_ulab))
+Introduction to U-Lab: Leading Profound Innovation for a More Sustainable World ({{% resource_link 50195c2c-f3e2-c6a7-26ac-678a22888df4 "PDF" %}})
 
 In-Class Practice
 -----------------

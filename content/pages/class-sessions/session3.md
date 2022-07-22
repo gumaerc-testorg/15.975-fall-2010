@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: 'This session covers user-centered design and prototyping, and includes
+  materials for preparation, a short video prepared by the professor, and a reflection
+  assignment. '
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Class Sessions
+parent_type: CourseSection
 parent_uid: 8efc3cfd-fbe4-7016-4592-7e1c3ebbebac
 title: User-Centered Design and Prototyping
 uid: 33fa04ee-d0f0-77cf-4baf-d211e57abc15

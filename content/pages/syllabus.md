@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on course objectives, key ideas, required text, a resource website, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 016d876f-ff40-4505-995e-6b342a0b5813
 ---
