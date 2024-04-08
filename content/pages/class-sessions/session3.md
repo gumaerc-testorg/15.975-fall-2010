@@ -23,9 +23,9 @@ Scharmer, C. Otto. "Conversational Actions." Chapter 17 in _Theory U: Leading Fr
 
 ### Video Clips
 
-Cheek, Kristin Aldred. "[Design Matters: A New Video From dMASS](https://www.dmass.net/blog/2011/01/05/design-matters-a-new-video-from-dmass)." January 5, 2011. dMASS.
+Cheek, Kristin Aldred. "{{% resource_link "f0ef3752-d9e7-4204-af7a-c8dc2abdbd1c" "Design Matters: A New Video From dMASS" %}}." January 5, 2011. dMASS.
 
-Hagel III, John. "[Collaborative Innovation and a Pull Economy](http://edgeperspectives.com/blog/2010/04/jsb-at-stanford-collaborative-innovation-and-a-pull-economy.html)." April 17, 2010. Edge Prespectives.
+Hagel III, John. "{{% resource_link "1831a90d-38d2-46b1-8aa0-ab8c68380e56" "Collaborative Innovation and a Pull Economy" %}}." April 17, 2010. Edge Prespectives.
 
 In-Class Practice
 -----------------
