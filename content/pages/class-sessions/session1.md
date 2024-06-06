@@ -15,7 +15,7 @@ uid: f5268b01-e5f6-aae0-298c-27ffa9194362
 
 ### Pre-reading
 
-Scharmer, C. Otto. "The Blind Spot of Institutional Leadership: How to Create Deep Innovation Through Moving From Egosystem to Ecosystem Awareness." Paper prepared for World Economic Forum, Annual Meeting of the New Champions 2010, Tianjin, People's Republic of China, September 2010. ({{% resource_link "73298075-3c4c-4168-a69a-634e49910592" "PDF" %}})
+Scharmer, C. Otto. "The Blind Spot of Institutional Leadership: How to Create Deep Innovation Through Moving From Egosystem to Ecosystem Awareness." Paper prepared for World Economic Forum, Annual Meeting of the New Champions 2010, Tianjin, People's Republic of China, September 2010. ([PDF](https://www.nesacenter.org/uploaded/board/UTheory/Blind_spot_of_institutional_leadership.pdf))
 
 ———. "Introduction." In *Theory U: Leading From the Future As It Emerges*. San Francisco, CA: Berrett-Koehler, 2009. ISBN: 9781576757635.
 
@@ -25,13 +25,11 @@ Scharmer, C. Otto. "The Blind Spot of Institutional Leadership: How to Create De
 
 ### Video Clips
 
-Otto Scharmer. "{{% resource_link "957369c9-b4a6-4271-b735-604cbf0a8af3" "Theory U and Presencing: An Introduction" %}}." June 15, 2011. Presencing Institute.
+"[Nic Marks Discusses the Happy Planet Index at TEDGlobal](https://www.ted.com/talks/nic_marks_the_happy_planet_index)." August 30, 2010. The New Economics Foundation (NEF).
 
-"{{% resource_link "52585920-ddaf-44fa-ab78-5e21784e01be" "Nic Marks Discusses the Happy Planet Index at TEDGlobal" %}}." August 30, 2010. The New Economics Foundation (NEF).
+globaloneness. "Riane Eisler: Caring Economics." October 17, 2007. YouTube. [http://www.youtube.com/watch?v=USUeF4YauF8&feature=player_embedded](http://www.youtube.com/watch?v=USUeF4YauF8&feature=player_embedded).
 
-globaloneness. "Riane Eisler: Caring Economics." October 17, 2007. YouTube. {{% resource_link "896e6318-b753-4a65-b4ce-9beeac182684" "http://www.youtube.com/watch?v=USUeF4YauF8&feature=player_embedded" %}}.
-
-GenerationWe. "Generation WE: The Movement Begins…" October 22, 2008. YouTube. {{% resource_link "f8a1637f-ac23-4a4d-bc53-a7186b341fdf" "http://www.youtube.com/watch?v=vknHKTy1MLY" %}}.
+GenerationWe. "Generation WE: The Movement Begins…" October 22, 2008. YouTube. [http://www.youtube.com/watch?v=vknHKTy1MLY](http://www.youtube.com/watch?v=vknHKTy1MLY).
 
 Session Introduction
 
@@ -47,7 +45,7 @@ Effective Listening
 
 Reflect on the discussion we had during the first class and write a paragraph that responds to the following questions:
 
-What interest and intention brought you to this class?   
+What interest and intention brought you to this class?    
 What is the core question that you want to explore?
 
 ### Empathy Walk
