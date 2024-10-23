@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation with an introduction to the U-Lab.
-file: /courses/15-975-u-lab-leading-profound-innovation-for-a-more-sustainable-world-fall-2010/50195c2cf3e2c6a726ac678a22888df4_MIT15_975F10_ulab.pdf
+file: /ol-ocw-studio-app/courses/15-975-u-lab-leading-profound-innovation-for-a-more-sustainable-world-fall-2010/50195c2cf3e2c6a726ac678a22888df4_MIT15_975F10_ulab.pdf
 file_size: 575231
 file_type: application/pdf
 learning_resource_types: []
