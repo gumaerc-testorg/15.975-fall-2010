@@ -21,7 +21,7 @@ Scharmer, C. Otto. "Presencing." Chapter 17 in _Theory U: Leading From the Futur
 
 ### Video Clips
 
-StanfordUniversity. "Steve Jobs' 2005 Stanford Commencement Address." May 14, 2008. YouTube. [http://www.youtube.com/watch?v=Hd\_ptbiPoXM&feature=related](http://www.youtube.com/watch?v=Hd_ptbiPoXM&feature=related).
+StanfordUniversity. "Steve Jobs' 2005 Stanford Commencement Address." May 14, 2008. YouTube. {{% resource_link "760ed167-357d-4a5d-9dca-0f14c9e7fe7b" "http://www.youtube.com/watch?v=Hd\_ptbiPoXM&feature=related" %}}.
 
 In-Class Practice
 -----------------
