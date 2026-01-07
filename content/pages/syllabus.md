@@ -16,7 +16,7 @@ Lectures: 1 session / week for 6 weeks, 3 hours / session
 Instructor
 ----------
 
-{{% resource_link "4bbc17f4-3719-40d5-9a34-7a00c0fc905a" "Dr. Claus Otto Scharmer" %}}, MIT Senior Lecturer and Founding Chair of the Presencing Institute
+[Dr. Claus Otto Scharmer](http://www.ottoscharmer.com/), MIT Senior Lecturer and Founding Chair of the Presencing Institute
 
 Course Description
 ------------------
@@ -66,7 +66,7 @@ Scharmer, C. Otto. _Theory U: Leading From the Future As It Emerges_. San Franci
 Resource Web site
 -----------------
 
-{{% resource_link "d6e65876-f4b5-41a0-803f-6ed19687e04d" "Presencing Institute: Transforming Capitalism" %}}
+[Presencing Institute: Transforming Capitalism](https://www.presencing.org/transforming-capitalism-lab)
 
 Grading
 -------
